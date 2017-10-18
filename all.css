@@ -1,0 +1,26 @@
+ body {
+            margin: 0;
+            padding: 0;
+            
+            
+        }
+        #docim{
+ 
+        width: 100%;
+        margin: 0 auto;
+        height: 35%;
+            
+            
+        }
+        #headi{
+        
+           text-align: center;
+        margin: 10px;
+            font-size: 24px;
+        }
+        #box{
+            border: 1px solid  green;
+            margin: 150px;
+            padding: 40px;
+            text-align: center;
+        }
